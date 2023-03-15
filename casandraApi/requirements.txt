@@ -1,0 +1,8 @@
+cassandra-driver
+prettytable
+requests
+pyopenssl
+Faker
+pylint
+flake8
+shellcheck-py
